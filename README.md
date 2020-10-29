@@ -9,6 +9,12 @@ Uma simples API com arquitetura REST desenvolvida utilizando NodeJS e Express.
 - POST `/auth/authenticate` - Autenticação de usuário
 - POST `/auth/forgot_password` - Recuperação de senha
 - POST `/auth/reset_password` - Alteração de senha
+- POST `/projects/` - Criar novo projeto
+- GET `/projects/` - Listar todos os projeto
+- GET `/projects/:projectId` - Mostrar projeto
+- PUT `/projects/:projectId` - Editar projeto
+- DELETE `/projects/:projectId` - Deletar projeto
+
 
 ## Next Level
 - [X] Banco de dados MongoDB com Mongoose.
