@@ -18,8 +18,9 @@ Uma simples API com arquitetura REST desenvolvida utilizando NodeJS e Express.
 
 ## Next Level
 - [X] Banco de dados MongoDB com Mongoose.
+- [X] Senhas criptografadas.
 - [X] Autenticação com JWT.
-- [X] Recuperação de e-mail com NodeMail.
+- [X] Recuperação de senha com NodeMail.
 - [ ] Upload de arquivos com Multer.
 - [ ] Refator código para TypeScript.
 
